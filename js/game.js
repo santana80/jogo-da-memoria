@@ -4,10 +4,16 @@ const timer = document.querySelector('.timer');
 
 const fotos = [
 'android',
+'arena',
 'dbz1',
 'dbz2',
+'dbz3',
 'dbz4',
+'dbz5',
+'dbz6',
 'esferas',
+'fundo',
+'logo',
 'naruto',
 'naruto2',
 'terra',
